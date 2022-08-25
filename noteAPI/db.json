@@ -1,0 +1,58 @@
+{
+  "signup": [
+    {
+      "email": "test@test.com",
+      "password": "password",
+      "id": 1
+    },
+    {
+      "email": "test@test.com",
+      "password": "password",
+      "id": 2
+    },
+    {
+      "email": "test@test.com",
+      "password": "password",
+      "id": 3
+    },
+    {
+      "email": "asdsa",
+      "password": "asdsa",
+      "id": 4
+    },
+    {
+      "email": "ssss",
+      "password": "sss",
+      "id": 12
+    }
+  ],
+  "notes": [
+    {
+      "title": "test",
+      "content": "test",
+      "tag": "home",
+      "date": "Aug 25th 22",
+      "id": 3
+    },
+    {
+      "title": "todo",
+      "content": "todo",
+      "tag": "work",
+      "date": "Aug 25th 22",
+      "id": 5
+    },
+    {
+      "title": "iuouio",
+      "content": "klkk",
+      "tag": "work",
+      "date": "Aug 25th 22",
+      "id": 6
+    }
+  ],
+  "tags": [
+    {
+      "title": "work",
+      "id": 1
+    }
+  ]
+}
